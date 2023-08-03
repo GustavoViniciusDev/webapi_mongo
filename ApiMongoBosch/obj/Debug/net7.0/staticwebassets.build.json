@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tcPFl5uv8h1MuiFeq2RDIq21g+HMn/QwuhV9QTQEKiU=",
+  "Source": "ApiMongoBosch",
+  "BasePath": "_content/ApiMongoBosch",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
